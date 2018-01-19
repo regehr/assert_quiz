@@ -12,6 +12,8 @@ If you need more background about assertions, consult the following sources.
 Here is an example of a very bad assertion:
   https://github.com/rohe/pysaml2/issues/451
 
+Thanks to people on Twitter for supplying many of these!
+
 1.
 ```
 res = open(path, "r");

@@ -4,10 +4,10 @@ For each of these assertions, determine whether it is good or
 bad. Explain your reasoning.
 
 If you need more background about assertions, consult the following sources.
-- Chapter 2 of Writing Solid Code
 - https://blog.regehr.org/archives/1091
 - http://wiki.c2.com/?WhatAreAssertions
 - http://pgbovine.net/programming-with-asserts.htm
+- Chapter 2 of [Writing Solid Code](http://writingsolidcode.com/)
 
 Here is an example of a very bad assertion:
   https://github.com/rohe/pysaml2/issues/451
